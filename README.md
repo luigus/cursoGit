@@ -10,3 +10,6 @@ $git add arquivo
 
 Comitando
 $git commit -m "mensagem"
+
+Enviando para servidor remoto
+$git push
