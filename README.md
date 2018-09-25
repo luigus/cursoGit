@@ -28,7 +28,8 @@ $git checkout -B feature_branch
 Realizando merge
 $git merge master 
 
-
 Develop foi mergiada de novo
-
 Commit na developer (github)
+
+finalizada tarefa 2
+
