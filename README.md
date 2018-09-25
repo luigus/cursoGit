@@ -23,5 +23,6 @@ $git checkout develoṕs
 Criando branch git-flow
 $git checkout -B feature_branch
 
-Criando tarefa 2
-$git checkout -B feature_branch2
+Realizando merge
+$git merge master 
+
