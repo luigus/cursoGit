@@ -18,11 +18,10 @@ Criando branch
 $git branch develop
 
 Mudando de branch
-$git checkout develoṕs
+$git checkout feature
 
 Criando branch git-flow
 $git checkout -B feature_branch
 
 Realizando merge
 $git merge master 
-
