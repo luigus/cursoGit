@@ -13,3 +13,6 @@ $git commit -m "mensagem"
 
 Enviando para servidor remoto
 $git push
+
+Criando branch
+$git branch develop
