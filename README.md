@@ -20,11 +20,14 @@ $git branch develop
 finalizada tarefa 1
 
 Mudando de branch
-$git checkout develoṕs
+$git checkout feature
 
 Criando branch git-flow
 $git checkout -B feature_branch
 
 Realizando merge
 $git merge master 
+
+
+Develop foi mergiada de novo
 
