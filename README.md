@@ -16,3 +16,6 @@ $git push
 
 Criando branch
 $git branch develop
+
+Mudando de branch
+$git checkout develoṕs
