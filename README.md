@@ -19,3 +19,6 @@ $git branch develop
 
 Mudando de branch
 $git checkout develoṕs
+
+Criando branch git-flow
+$git checkout -B feature_branch
