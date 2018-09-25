@@ -17,6 +17,8 @@ $git push
 Criando branch
 $git branch develop
 
+finalizada tarefa 1
+
 Mudando de branch
 $git checkout develoṕs
 
@@ -25,3 +27,4 @@ $git checkout -B feature_branch
 
 Realizando merge
 $git merge master 
+
